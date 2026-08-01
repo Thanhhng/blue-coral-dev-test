@@ -94,7 +94,7 @@ export function SolutionsShowcase() {
         </div>
 
         <div className="flex justify-center lg:hidden">
-          <NotchLeftIcon className="size-6 shrink-0 -scale-y-100 rotate-290 text-white" />
+          <NotchLeftIcon className="size-6 shrink-0 -scale-y-100 rotate-277 text-white" />
           <div className="flex items-start rounded-br-[32px] rounded-bl-[32px] bg-white px-2.5 pb-2.5">
             <div className="flex h-9 w-50 items-center justify-between rounded-[24px] bg-ink px-3 text-white">
               <button
